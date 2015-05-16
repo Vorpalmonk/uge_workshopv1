@@ -1,0 +1,96 @@
+clear
+cd
+qman less
+history less
+history
+pwd
+ls ..
+ls
+cd ...
+man ...
+ls Users/danielschaffner/
+ls Users/
+cd /
+cd root
+cd Adobe/
+cd Documents/
+cd ls
+cd ..
+atom EmailSignature_02182014.html
+open EmailSignature_02182014.html
+cd Projects/
+cd BellaFiore/
+Dropbox\ \(Sophia\ Nutrition\)/
+cd Dropbox\ \(Sophia\ Nutrition\)/
+cd /Users/danielschaffner/exercism
+man git
+man -a
+man a
+-a man
+man -tZ
+man -tz
+man tz
+man rt
+ls -lrt
+l
+ls -t
+ls r
+ls -rt
+ls-rt
+2to3
+2
+clr
+admin
+root
+twd
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name 'dan.schaffner@gmail.com'
+git config --global user.name 'Vorpalmonk'
+manpath Documents/Adobe/
+man 1
+1
+man
+git --version
+brew install git
+echo $PATH
+echo $path
+echo path
+atom /etc/paths
+atom ~/.config/fish/config.fish
+subl ~/.config/fish/config.fish
+ln -s /Applications/Atom.app/Contents/MacOS/Atom /usr/local/bin/atom
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/sat
+brew info fish
+clear
+cl
+curl -fsSL http://git.io/beJs | ruby
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+help
+echo '/usr/local/bin/
+brew install fish
+ar
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ls -G
+/Users/danielschaffn
+  function leadGame()
+  <script>
+<button onclick= "leadGame()" >Click me</button>
+open readme.md
+cd etl
+open etl
+cd java
+exercism fetch ruby
+ls -1
+~/Users/danielschaffner/exercism
+exercism fetch java
+exercism debug
+exercism configure --key=d953d5721d174b3aa2f7fe203c3110d8
+exercism -v
+source .bash_profile
+echo 'export PATH=~/bin:$PATH' >> .bash_profile
+mv downloads/exercism bin/
+mkdir bin
+/Users/danielschaffner/Downloads/exercism ; exit;
+uname -m
+
+aosdknsodanoasndosaiaosin
