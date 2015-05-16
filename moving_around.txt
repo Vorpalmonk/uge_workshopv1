@@ -94,3 +94,4 @@ mkdir bin
 uname -m
 
 aosdknsodanoasndosaiaosin
+ksksksk
